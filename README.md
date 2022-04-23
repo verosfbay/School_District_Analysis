@@ -3,7 +3,7 @@
 ## Overview 
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Maria asked me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once I’ve replaced the math and reading scores, I repeated the school district analysis that I did previously and wrote up a report to describe how these changes affected the overall analysis. 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 
 - The district summary is affected in that the average math score is now 78.9 instead of 79.0, the percentage passing math is now 74.8 instead of 75, and the overall passing percentage is now 64.9 instead of 65.
 <img width="1116" alt="Screen Shot 2022-04-23 at 11 50 30 AM" src="https://user-images.githubusercontent.com/95447175/164941618-3e72f1bc-6894-40eb-8a7f-bf4b87ca9dd4.png">
